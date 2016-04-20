@@ -14,3 +14,4 @@
 * Bonus: Naformátujte údaje v súbore zoznam_prac.xhtml pomocou css
 * Nahrajte súbor do vášho repozitáry na GitHube
 * Požiadajte o Pull Request súboru zoznam_prac.xhtml
+# -bootstrap_pokus
